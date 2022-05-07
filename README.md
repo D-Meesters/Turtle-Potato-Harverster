@@ -78,4 +78,4 @@ now type what ever you named the program in our case its called "Harvest" (upper
 
 Success with your automatic potato farm you can even change the chest with a furnace to automaticly cook the potatoes
 
-(this has been given a MIT license you can freely modify it aslong if you give credit. if you make a look a like yourself i dont care if you dont credit because then its your own work.
+(this has been given a MIT license you can freely modify it aslong if you give credit. if you make a look a like yourself i dont care if you dont credit because then its your own work.)
