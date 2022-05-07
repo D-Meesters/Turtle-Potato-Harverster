@@ -5,9 +5,9 @@ the pastebin: https://pastebin.com/vkb7yvvY
 
 How it works
 
-it looks at the potatoes in front of him if its full grown it harvests them it auto replants and drops them below him in a water stream then it can be picked up by what ever you want it has to be fueled by you, dont think its broken when it keeps staring at the first potato its just waiting to grow to prevent lag it checks every 5 seconds
+It looks at the potatoes in front of the turtle. If the potatoes are full grown, it'll harvest them and replant them. It drops the potatoes down in a water stream, and then it can be picked up by whatever you want. 
 
-Note: after a while you will need to take the poisonous potato out of the turtle 
+NOTE: It has to be fueled by you and don't think its broken when it keeps staring at the first potato, it's just waiting to grow. To prevent lag it checks every 5 seconds.
 
 ![2022-05-07_12 42 49](https://user-images.githubusercontent.com/87944197/167250893-845a75cf-0152-44be-8385-802f447f21bf.png)
 
